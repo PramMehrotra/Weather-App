@@ -1,6 +1,6 @@
 # Weather Application
 
-This is a simple weather application that fetches real-time weather data for a given city using the OpenWeatherMap API.
+This is a simple weather application that fetches real-time weather data for a given city using the OpenWeatherMap API (not)
 
 ## Features
 - Retrieves current weather conditions
